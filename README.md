@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a stustudent of Faculty of Technical Sciences of Novi Sad, Serbia.🇷🇸
+I'm a student of Faculty of Technical Sciences of Novi Sad, Serbia.🇷🇸
 I am a freshman and I study Computer science.🖥👨‍🔬
 
 I’m currently learning:📖
