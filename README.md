@@ -1,22 +1,12 @@
-<div align="center">
-
-# 👋 Hi, I'm Vukotije!
-
-Software developer building systems, tools, and experiments across cloud infrastructure, AI, data, language tooling, and full-stack applications.
-
-</div>
-
-## 🚀 Featured projects
-
 <table>
 <tr>
 <td width="50%" valign="top" style="padding: 20px;">
 
 ### 🧩 [SuperPlane](https://github.com/superplanehq/superplane)
 
-Open-source factory for one-shot engineering. I contributed CLI features, integrations, authentication, configuration, release tooling, workflow behavior, error handling, and tests.
+Open source factory for one-shot engineering.
 
-`Go` `TypeScript` `CLI` `DevOps` `Agentic workflows`  
+`Go` `TypeScript` `CLI` `DevOps`  
 ⭐ **7.7k stars**
 
 </td>
@@ -24,7 +14,7 @@ Open-source factory for one-shot engineering. I contributed CLI features, integr
 
 ### 🐕 [HundDB](https://github.com/mrsladoje/HundDB)
 
-High-performance LSM-tree key-value storage engine written in Go, with SSTables, memtables, WAL, and a Wails/React desktop interface.
+A complete LSM tree key-value storage engine written in Go. Implements SSTables, memtables, and write-ahead logging with a modern Wails and React desktop interface.
 
 `Go` `Wails` `React` `LSM`
 
@@ -35,18 +25,18 @@ High-performance LSM-tree key-value storage engine written in Go, with SSTables,
 
 ### 🐢 [Tortoise LS](https://github.com/Vukotije/tortoise-ls)
 
-LSP server for LOGO, built around deterministic semantic analysis and AST-based language intelligence.
+LSP server for LOGO, designed around deterministic semantic analysis and AST-based language intelligence.
 
-`Kotlin` `AST` `LSP` `Developer tooling`
+`Kotlin` `AST` `LSP`
 
 </td>
 <td width="50%" valign="top" style="padding: 20px;">
 
 ### 🤖 [Agent Skill Composer](https://github.com/Vukotije/agent-skill-composer)
 
-IntelliJ plugin that analyzes projects with native IDE APIs and uses AI providers to generate grounded `AGENTS.md` and `SKILL.md` files.
+IntelliJ plugin that analyzes projects with native IDE APIs and uses your chosen AI provider to generate grounded `AGENTS.md` and `SKILL.md` files for agents.
 
-`Kotlin` `IntelliJ Platform` `AI tooling`
+`Kotlin` `IntelliJ Platform` `AI`
 
 </td>
 </tr>
@@ -55,18 +45,18 @@ IntelliJ plugin that analyzes projects with native IDE APIs and uses AI provider
 
 ### 🧠 [Cyclops](https://github.com/AStroCvijo/cyclops)
 
-Contribution to a computer-vision project using Stable Diffusion, including device configuration and dataset tooling.
+Comparative analysis of monocular depth estimation methods (ResNet-50, frozen Stable Diffusion UNet, I-JEPA, SD+I-JEPA fusion, DepthAnything V2) with robustness evaluation under fog, blur, and low-light on NYU Depth V2.
 
-`Python` `PyTorch` `Computer vision`
+`Jupyter Notebook` `Computer vision` `Stable Diffusion`
 
 </td>
 <td width="50%" valign="top" style="padding: 20px;">
 
 ### 🧶 [Tangled](https://github.com/re-pixel/tangled)
 
-Contributions covering XML data sources, search and filtering, tests, UI improvements, installation scripts, and documentation.
+No repository description provided.
 
-`Java` `Plugins` `Testing` `Documentation`
+`Python` `Plugins` `Testing`
 
 </td>
 </tr>
@@ -75,18 +65,18 @@ Contributions covering XML data sources, search and filtering, tests, UI improve
 
 ### 🚕 [Drumigo](https://github.com/kzi-nastava/mrs-team21-drumigo)
 
-Angular modernization, ride history, driver registration, profile management, reporting, testing, and admin workflows.
+Full-stack ride-sharing platform with Spring Boot, Angular and an Android mobile app. Real-time tracking, driver matching, and ride management.
 
-`Angular` `Frontend` `Backend` `Testing`
+`Java` `Spring Boot` `Angular` `Android`
 
 </td>
 <td width="50%" valign="top" style="padding: 20px;">
 
 ### ☁️ [AWS Social Ingestor](https://github.com/Vukotije/aws-social-ingestor)
 
-Serverless AWS data lake for real-time social analytics, built around a Medallion-style pipeline and infrastructure as code.
+AWS data lake for real-time social analytics, engineered with a serverless Medallion pipeline and IaC provisioning.
 
-`AWS` `Python` `Lambda` `Data engineering` `IaC`
+`Python` `AWS` `Lambda` `Data engineering`
 
 </td>
 </tr>
@@ -95,7 +85,7 @@ Serverless AWS data lake for real-time social analytics, built around a Medallio
 
 ### 🕸️ [Parallel Web Scraper](https://github.com/Vukotije/parallel-web-scraper)
 
-Parallel web scraper that analyzes website content efficiently using Intel Threading Building Blocks.
+This project implements a parallel web scraper that efficiently analyzes website content using Intel Threading Building Blocks (TBB).
 
 `C++` `Intel TBB` `Parallelism`
 
@@ -104,9 +94,9 @@ Parallel web scraper that analyzes website content efficiently using Intel Threa
 
 ### 📡 [CoreWatch](https://github.com/0vertake/core-watch)
 
-Sensor simulation, consensus services, Docker setup, Minikube deployment, and documentation.
+No repository description provided.
 
-`C#` `Docker` `Kubernetes` `Distributed systems`
+`C#` `Docker` `Kubernetes`
 
 </td>
 </tr>
@@ -115,7 +105,7 @@ Sensor simulation, consensus services, Docker setup, Minikube deployment, and do
 
 ### 🔐 [SIIT IB project](https://github.com/kzi-nastava/siit-ib-projekat-tim9)
 
-Key rotation, keystore handling, refresh flows, and documentation.
+siit-ib-projekat-tim9 created by GitHub Classroom.
 
 `Java` `Security` `Key management`
 
@@ -124,9 +114,9 @@ Key rotation, keystore handling, refresh flows, and documentation.
 
 ### 🔎 [PDF Search Engine](https://github.com/Vukotije/pdf-search-engine)
 
-PDF search engine using a Trie and PageRank for text search, autocomplete, Boolean logic, and ranked results.
+A Python-based PDF search engine that uses a Trie and PageRank to provide fast text search, autocomplete, and ranked query results with Boolean logic.
 
-`Python` `Trie` `PageRank` `Information retrieval`
+`Python` `Trie` `PageRank`
 
 </td>
 </tr>
@@ -135,52 +125,61 @@ PDF search engine using a Trie and PageRank for text search, autocomplete, Boole
 
 ### ⚪⚫ [Checkers](https://github.com/Vukotije/checkers)
 
-Classic checkers game implemented in Python with Pygame and a Minimax AI opponent with alpha-beta pruning.
+A classic checkers game implemented in Python with Pygame, featuring an AI opponent powered by the Minimax algorithm with alpha-beta pruning.
 
 `Python` `Pygame` `Minimax`
 
 </td>
 <td width="50%" valign="top" style="padding: 20px;">
 
-### 🍻 Pifčina
-
-Project from my software-development work and coursework portfolio.
-
-`Software engineering` `Project work`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding: 20px;">
-
 ### ⚙️ [Processing System Simulator](https://github.com/Vukotije/processing-system-simulator)
 
-Event-driven job processor with priority scheduling across async workers, idempotent submission, asynchronous logging, and auto-pruned XML reports.
+Event-driven job processor with priority scheduling across async workers, idempotent submission, async logger, and auto-pruned XML reports.
 
 `C#` `Async workers` `Scheduling` `XML`
 
 </td>
-<td width="50%" valign="top" style="padding: 20px;">
-
-### 🧰 [Cupid Envoy](https://github.com/Vukotije/cupid-envoy)
-
-Experimental project exploring service and systems development.
-
-`Systems` `Engineering`
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding: 20px;">
 
+### 🧰 [Cupid Envoy](https://github.com/Vukotije/cupid-envoy)
+
+No repository description provided.
+
+</td>
+<td width="50%" valign="top" style="padding: 20px;">
+
 ### 🤖 [Robot in Knossos](https://github.com/Vukotije/robot-in-knossos-maze)
 
-Console-based C++ maze game where a robot navigates a labyrinth, collects power-ups, and faces a roaming Minotaur.
+A console C++ maze game where you guide a robot through a labyrinth, collect power-ups, and outsmart (or slay) the roaming Minotaur to escape.
 
 `C++` `Games` `Algorithms`
 
 </td>
+</tr>
+</table>
+
+## 🏆 Hackathon projects
+
+<table>
+<tr>
 <td width="50%" valign="top" style="padding: 20px;">
+
+### 🚗 [Ominimo ASU FM](https://github.com/Vukotije/ominimo-asu-fm)
+
+Ominimo and MATF Data Science Hackathon 2026, predicting each competitor’s car-insurance premium from the same customer and vehicle profile, and documenting how we did it with Python, CatBoost, and EDA.
+
+`Python` `CatBoost` `Machine learning` `EDA`
+
+</td>
+<td width="50%" valign="top" style="padding: 20px;">
+
+### 🎨 [UI Morph](https://github.com/IgorAmi52/ui-morph)
+
+No repository description provided.
+
+`TypeScript` `AI agents` `Evaluation`
 
 </td>
 </tr>
