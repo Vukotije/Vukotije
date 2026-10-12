@@ -145,7 +145,7 @@ Event-driven job processor with priority scheduling across async workers, idempo
 
 ### 🧰 [Cupid Envoy](https://github.com/Vukotije/cupid-envoy)
 
-No repository description provided.
+A .NET 10 PubSub matchmaking simulation built with ASP.NET Core, SignalR, and cryptographic scoring.
 
 </td>
 <td width="50%" valign="top" style="padding: 20px;">
