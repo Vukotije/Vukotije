@@ -1,23 +1,18 @@
-<div align="center">
 
-# 👋 Hi, I'm Vukotije!
-
-Software developer building systems, tools, and experiments across cloud infrastructure, AI, data, language tooling, and full-stack applications.
-
-</div>
-
-## 🚀 Featured projects
+## Featured projects
 
 <table>
 <tr>
-<td width="25%" valign="top" style="padding: 20px; text-align: center;">
+<td width="50%" valign="top" style="padding: 20px;">
 
-### ⭐ GitHub
+### 🧩 [SuperPlane](https://github.com/superplanehq/superplane)
 
-<a href="https://github.com/Vukotije"><img src="https://img.shields.io/github/stars/Vukotije?style=for-the-badge&logo=github&label=Profile%20stars" alt="GitHub stars" /></a>
+Open-source factory for one-shot engineering. I contributed CLI features, integrations, authentication, configuration, release tooling, workflow behavior, error handling, and tests.
+
+`Go` `TypeScript` `CLI` `DevOps` `Agentic workflows`
 
 </td>
-<td width="25%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top" style="padding: 20px;">
 
 ### 🐕 [HundDB](https://github.com/mrsladoje/HundDB)
 
@@ -26,7 +21,9 @@ High-performance LSM-tree key-value storage engine written in Go, with SSTables,
 `Go` `Wails` `React` `LSM`
 
 </td>
-<td width="25%" valign="top" style="padding: 20px;">
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 20px;">
 
 ### 🐢 [Tortoise LS](https://github.com/Vukotije/tortoise-ls)
 
@@ -35,7 +32,7 @@ LSP server for LOGO, built around deterministic semantic analysis and AST-based 
 `Kotlin` `AST` `LSP` `Developer tooling`
 
 </td>
-<td width="25%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top" style="padding: 20px;">
 
 ### 🤖 [Agent Skill Composer](https://github.com/Vukotije/agent-skill-composer)
 
@@ -45,11 +42,46 @@ IntelliJ plugin that analyzes projects with native IDE APIs and uses AI provider
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top" style="padding: 20px;">
 
-## 📚 Class work
+### 🧶 [Tangled](https://github.com/re-pixel/tangled)
 
-<table>
+Contributions covering XML data sources, search and filtering, tests, UI improvements, installation scripts, and documentation.
+
+`Java` `Plugins` `Testing` `Documentation`
+
+</td>
+<td width="50%" valign="top" style="padding: 20px;">
+
+### 🚕 [Drumigo](https://github.com/kzi-nastava/mrs-team21-drumigo)
+
+Angular modernization, ride history, driver registration, profile management, reporting, testing, and admin workflows.
+
+`Angular` `Frontend` `Backend` `Testing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 20px;">
+
+### 🔐 [SIIT IB project](https://github.com/kzi-nastava/siit-ib-projekat-tim9)
+
+Key rotation, keystore handling, refresh flows, and documentation.
+
+`Java` `Security` `Key management`
+
+</td>
+<td width="50%" valign="top" style="padding: 20px;">
+
+### 🧠 [Cyclops](https://github.com/AStroCvijo/cyclops)
+
+Stable Diffusion integration, device configuration, dataset downloads, and repository hygiene.
+
+`Python` `PyTorch` `Computer vision`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top" style="padding: 20px;">
 
@@ -170,12 +202,32 @@ Experimental project exploring service and systems development.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top" style="padding: 20px;">
+
+### 📡 [CoreWatch](https://github.com/0vertake/core-watch)
+
+Sensor simulation, consensus services, Docker setup, Minikube deployment, and documentation.
+
+`C#` `Docker` `Kubernetes` `Distributed systems`
+
+</td>
+</tr>
 </table>
 
 ## 🏆 Hackathon projects
 
 <table>
 <tr>
+<td width="33%" valign="top" style="padding: 20px;">
+
+### 🎨 [UI Morph](https://github.com/IgorAmi52/ui-morph)
+
+AI-powered interface generation project with a layout-agent evaluation harness and GEPA tooling.
+
+`Python` `AI agents` `Evaluation`
+
+</td>
 <td width="33%" valign="top" style="padding: 20px;">
 
 ### 🚗 [Ominimo ASU FM](https://github.com/Vukotije/ominimo-asu-fm)
@@ -192,81 +244,6 @@ Car-insurance premium prediction project from the Ominimo and MATF Data Science 
 Hackathon project focused on applying software and AI to a practical problem.
 
 `AI` `Rapid prototyping`
-
-</td>
-<td width="33%" valign="top" style="padding: 20px;">
-
-### 🎨 [UI Morph](https://github.com/IgorAmi52/ui-morph)
-
-AI-powered interface generation project with a layout-agent evaluation harness and GEPA tooling.
-
-`Python` `AI agents` `Evaluation`
-
-</td>
-</tr>
-</table>
-
-## 🤝 Open-source collaborations
-
-<table>
-<tr>
-<td width="50%" valign="top" style="padding: 20px;">
-
-### 🧩 [SuperPlane](https://github.com/superplanehq/superplane)
-
-Open-source factory for one-shot engineering. I contributed CLI features, integrations, authentication, configuration, release tooling, workflow behavior, error handling, and tests.
-
-`Go` `TypeScript` `CLI` `DevOps` `Agentic workflows`  
-⭐ **7.7k stars**
-
-</td>
-<td width="50%" valign="top" style="padding: 20px;">
-
-### 🧶 [Tangled](https://github.com/re-pixel/tangled)
-
-Contributions covering XML data sources, search and filtering, tests, UI improvements, installation scripts, and documentation.
-
-`Java` `Plugins` `Testing` `Documentation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding: 20px;">
-
-### 🚕 [Drumigo](https://github.com/kzi-nastava/mrs-team21-drumigo)
-
-Angular modernization, ride history, driver registration, profile management, reporting, testing, and admin workflows.
-
-`Angular` `Frontend` `Backend` `Testing`
-
-</td>
-<td width="50%" valign="top" style="padding: 20px;">
-
-### 🔐 [SIIT IB project](https://github.com/kzi-nastava/siit-ib-projekat-tim9)
-
-Key rotation, keystore handling, refresh flows, and documentation.
-
-`Java` `Security` `Key management`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding: 20px;">
-
-### 🧠 [Cyclops](https://github.com/AStroCvijo/cyclops)
-
-Stable Diffusion integration, device configuration, dataset downloads, and repository hygiene.
-
-`Python` `PyTorch` `Computer vision`
-
-</td>
-<td width="50%" valign="top" style="padding: 20px;">
-
-### 📡 [CoreWatch](https://github.com/0vertake/core-watch)
-
-Sensor simulation, consensus services, Docker setup, Minikube deployment, and documentation.
-
-`C#` `Docker` `Kubernetes` `Distributed systems`
 
 </td>
 </tr>
