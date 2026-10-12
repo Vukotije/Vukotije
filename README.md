@@ -54,7 +54,7 @@ Comparative analysis of monocular depth estimation methods (ResNet-50, frozen St
 
 ### 🧶 [Tangled](https://github.com/re-pixel/tangled)
 
-No repository description provided.
+A modular, plugin-based graph visualization platform built in Python that supports multiple data sources (JSON, YAML, XML, Kuzu) and visualization styles, powered by a microkernel architecture.
 
 `Python` `Plugins` `Testing`
 
@@ -94,7 +94,8 @@ This project implements a parallel web scraper that efficiently analyzes website
 
 ### 📡 [CoreWatch](https://github.com/0vertake/core-watch)
 
-No repository description provided.
+
+CoreWatch is a Kubernetes-deployable distributed temperature-monitoring system that securely collects sensor data, detects alarms, persists measurements, and calculates consensus values for critical industrial environments.
 
 `C#` `Docker` `Kubernetes`
 
@@ -105,7 +106,7 @@ No repository description provided.
 
 ### 🔐 [SIIT IB project](https://github.com/kzi-nastava/siit-ib-projekat-tim9)
 
-siit-ib-projekat-tim9 created by GitHub Classroom.
+A role-scoped PKI for issuing, encrypting, and revoking X.509 certificates, with public-key identity proofs, TOTP, CRL, and HTTPS served by the CA it operates.
 
 `Java` `Security` `Key management`
 
@@ -177,7 +178,7 @@ Ominimo and MATF Data Science Hackathon 2026, predicting each competitor’s car
 
 ### 🎨 [UI Morph](https://github.com/IgorAmi52/ui-morph)
 
-No repository description provided.
+Configurable UI for B2B SaaS, without a release for every customer request.
 
 `TypeScript` `AI agents` `Evaluation`
 
